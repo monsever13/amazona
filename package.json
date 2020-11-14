@@ -2,7 +2,6 @@
   "name": "amazona",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js ",
@@ -23,5 +22,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
-  }
+  },
+  "description": ""
 }
