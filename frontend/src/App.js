@@ -10,7 +10,7 @@ function App() {
         <header className="row">
           <div>
             <a className="brand" href="/">
-              amazona
+              Bilqis Store
             </a>
           </div>
           <div>
